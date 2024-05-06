@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm OUMA, a passionate computer science student <br>🌟 I'm always eager to learn and grow<br>🚀 On my GitHub, you'll find a collection of projects<br>💻Thanks for stopping by, and happy coding!<br><br><br><br><br><br>
+👋 Hello! I'm OUMA, a  computer science student <br>🌟 I'm always eager to learn and grow<br>🚀 On my GitHub, you'll find a collection of projects<br>💻Thanks for stopping by, and happy coding!<br><br><br><br><br><br>
 
 
 # 💻 Tech Stack:
